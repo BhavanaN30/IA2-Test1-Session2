@@ -26,3 +26,4 @@ int main()
   find_area(&t);
   output(t);
   return 0;
+  }
